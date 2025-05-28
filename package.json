@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "nodejs-expressjs-mongodb-base-project",
   "private": true,
   "version": "1.0.0",
@@ -31,5 +32,19 @@
     "express": "^4.18.2",
     "nodemon": "^3.0.1",
     "prettier": "^3.5.3"
+=======
+  "name": "sdn-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+>>>>>>> 7ff63cc97554c6a7b9828a0e9ca742d17397b508
   }
 }
